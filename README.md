@@ -6,11 +6,15 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+
   `ver6.0.0`
+
 * System dependencies
 
 * Configuration
+
   `devise` , `pry_rails` , `rspec-rails`
+
 * Database creation
   * twwets
 
