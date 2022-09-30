@@ -13,6 +13,8 @@ Things you may want to cover:
   `devise` , `pry_rails` , `rspec-rails`
 * Database creation
   * twwets
+
+
 | column     | Type        | Options     |
 |:-----------|:------------|:------------|
 | name       | string      | null: false |
